@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chun Man Chow / Polar4K"
+title                    : "Polar4World" #"Chun Man Chow / Polar4K"
 title_separator          : "-"
 name                     : &name "Chun Man Chow"
-description              : &description "MIT PhD Engineer | Environmentalist | Art Dabbler | Traveler | Dreamer & Builder of a Sustainable, Equitable World"
+description              : &description "MIT PhD Engineer | Environmentalist | Art Dabbler | Traveler & Culture Lover | Dreamer & Builder of a Sustainable, Equitable World"
 url                      : https://chunmanchow.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chunmanchow/chunmanchow.github.io"
@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Chun Man Chow"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "United to create a sustainable & equitable world"
+  location         : "Seattle, WA, USA | Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7LmImvsAAAAJ&hl=en"
@@ -100,7 +100,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/chunmanchow/"
   orcid            : "https://orcid.org/0000-0002-4746-6129"
   pinterest        :
   soundcloud       :

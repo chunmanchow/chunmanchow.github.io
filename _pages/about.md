@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Polar4K is a vision"
+title: "Polar4World is a vision"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
