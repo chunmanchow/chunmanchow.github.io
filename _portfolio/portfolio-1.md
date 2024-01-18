@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Nature brings joy 1<br/><img src='/images/Painting_corgi_starry.png'>"
+title: "Nature brings joy"
+excerpt: "Corgi! 1<br/><img src='/images/Painting_corgi_starry.png'>"
 collection: portfolio
 ---
 
