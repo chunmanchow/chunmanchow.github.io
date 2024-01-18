@@ -1,6 +1,6 @@
 ---
 title: "Nature brings joy"
-excerpt: "Corgi! 1<br/><img src='/images/Painting_corgi_starry.png'>"
+excerpt: "Corgi! 1<br/><img src='/images/Painting_corgi_starry.jpg'>"
 collection: portfolio
 ---
 
