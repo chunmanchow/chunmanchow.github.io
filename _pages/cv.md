@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BS Chemical Engineering, University of California - Berkeley, 2016
+* MPhil Advanced Chemical Engineering, University of Cambridge, 2017
+* MS Chemical Engineering Practice, Massachusetts Institute of Technology, 2019
+* MASc Data, Economics, and Development Policy, Massachusetts Institute of Technology, 2022
+* PhD Chemical Engineering, Massachusetts Institute of Technology, 2022
 
 Work experience
 ======
