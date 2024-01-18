@@ -25,7 +25,7 @@ Education
 Professional experience
 ======
 
-Business
+Business:
 ------
 * 2022-Present: McKinsey & Company, Management Consultant
   * Sustainability, social sector, healthcare, digital
@@ -44,19 +44,16 @@ Business
 
 * 2016-17: OpenDiagnostics (Cambridge Centre for Global Equality), Founding Member
   * Start-up for open-source, paper-based synthetic biology sensor with partnerships in UK & South Africa
-  * Winner of Cambridge Entrepreneurs Ideas Take Flight Competition
-  * Winner of London Business School HealthTech Challenge
-  * Parmee Prize for Entrepreneurship & Enterprise 
+  * Winner of Cambridge Entrepreneurs Ideas Take Flight Competition, London Business School HealthTech Challenge, Parmee Prize for Entrepreneurship & Enterprise (Pembroke College, Cambridge)
 
-* Summer 2016: Ruhrverband (Essen, DE), Intern
-  * Ruhr Fellowship - awarded to 17 US students
+* Summer 2016: Ruhrverband (Essen, DE), Intern - Ruhr Fellow (1 of 17)
   * Water management & microplastics in aquatic environments
 
 * Summer 2015: Chevron Phillips Chemical, Intern
   * SCI (Society of Chemical Industries) Scholar
   * Environmental, Health, & Safety (EHS)
 
-Multilateral/Non-profit
+Multilateral/Non-profit:
 ------
 * Summer 2022: Abdul Latif Jameel Poverty Action Lab (J-PAL), Climate Specialist
   * King Climate Action Initiative: Water
@@ -81,9 +78,18 @@ Research experience
 * 2013-16 Berkeley: Gadgil Lab for Energy & Water Research
   * Electrochemical arsenic remediation system (ECAR): transport & kinetics, automation, GUI for energy efficiency optimization, field-tests (rural West Bengal, India)
 
-Awards
+Selected awards
 ======
-MIT
+* 2017-22: National Science Foundation (NSF) Research Fellowship
+* 2020-22: Croucher Scholarship (Hong Kong award to 15 PhDs)
+* 2020: MIT J-WAFS Water & Food Systems Fellowship
+* 2020: MIT Policy Hackathon (Env. Justice): Winner
+* 2017-19: Tata Fellowship: Technology or resource-constrained communities
+* 2016-17: Churchill Scholarship (UK-US scholarship awarded to 15)
+* 2016: UCB College Commencement Speaker
+* 2016: UCB University Medal Finalist (top 5 graduates)
+
+<!-- MIT
 ------
 * 2017-22: National Science Foundation (NSF) Research Fellowship
 * 2020-22: Croucher Scholarship (Hong Kong award to 15 PhDs)
@@ -104,10 +110,10 @@ Berkeley
 * 2016: American Institute of Chemical Engineers (AIChE), N. Cal Section - College Senior Award
 * 2015: Barry Goldwater Scholarship (Congress award to 260)
 * 2015: Tau Beta Pi Scholarship: National Engineering Honor Society
-* 2012-16: UCB Regents' and Chancellor's Scholar
+* 2012-16: UCB Regents' and Chancellor's Scholar -->
 
   
-Service and leadership
+Service & leadership
 ======
 * 2016-Present: MIT IDEAS Global Challenge, Application Reviewer
 * 2021: IUCN (International Union for the Conservation), YouthSpeak Representative for Nature's One Nature, One Future Global Youth Summit
