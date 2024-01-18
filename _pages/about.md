@@ -11,7 +11,7 @@ redirect_from:
 Imagine a world where people across geographies, cultures, and religions come together towards a common cause.
 
 
-_Life’s most persistent and urgent question is, ‘What are you doing for others?’” - Martin Luther King, Jr._
+_"Life’s most persistent and urgent question is, ‘What are you doing for others?’” - Martin Luther King, Jr._
 
 
 Why now?

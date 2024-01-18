@@ -11,7 +11,7 @@ redirect_from:
 
 Chun Man is a PhD chemical/environmental engineer with 6+ years of experience in climate and sustainability, along with training in development ecoomics and business strategy. He was born and raised in Hong Kong.
 
-He is also an Environmentalist \| Art Dabbler \| Traveler & Culture Lover \| Dreamer & Builder of a Sustainable, Equitable World
+He is also a(n): Environmentalist \| Art Dabbler \| Traveler & Culture Lover \| Dreamer & Builder of a Sustainable, Equitable World
 
 Education
 ======
@@ -133,10 +133,9 @@ Publications
 <!-- {if author.googlescholar}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {endif} -->
-You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=7LmImvsAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=7LmImvsAAAAJ&hl=en).
 
 1. **C.M. Chow**, A.H. Persad, R. Karnik. [Effect of Membrane Permeance and System Parameters on the Removal of Protein-Bound Uremic Toxins in Hemodialysis](https://link.springer.com/article/10.1007/s10439-023-03397-6). _Annals of Biomedical Engineering_, 1-16 (2023).
-  * 
     
 1. **C.M. Chow**, R. Karnik. [Effect of pore size distribution on the desalination performance of the selective layer of nanoporous atomically-thin membranes](https://doi.org/10.1016/j.desal.2023.116645). _Desalination_ **561**, 116645 (2023).
 
