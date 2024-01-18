@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+This website is my playful take on a not-so-playful subject.
+
 Imagine a world where people across geographies, cultures, and religions come together towards a common cause.
 
-
 _"Life’s most persistent and urgent question is, ‘What are you doing for others?’” - Martin Luther King, Jr._
-
 
 Why now?
 ======
