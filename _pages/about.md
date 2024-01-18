@@ -11,25 +11,27 @@ redirect_from:
 Imagine a world where people across geographies, cultures, and religions come together towards a common cause.
 
 
-Time is pressing. The climate is rising
-
-_“We must use time creatively, in the knowledge that the time is always right to do right.” - Martin Luther King, Jr._
-
 _Life’s most persistent and urgent question is, ‘What are you doing for others?’” - Martin Luther King, Jr._
 
 
 Why now?
 ======
+Time is pressing. Climate change is happening. Our world's temperature is rising. 
 
-This site contains blog posts, videos, and.
+_“We must use time creatively, in the knowledge that the time is always right to do right.” - Martin Luther King, Jr._
 
-We also offer 1-on-1 consulting services for people . Please contact: 
 
 Why this name?
-------
-The penguin and the polar bear come from opposite ends of the world, but with the same vision, the common value and goal to.
+======
+The penguin and the polar bear may come from opposite ends of the world, but with the a same vision and goal to save their home and a common value of improving well-being of all, they come together to work on one of the most pressing challenge we face.
 
 That's the beauty of unity. And that's the vision that we, Polar4World, believe in. 
+
+What is here?
+======
+This site contains blog posts and learning videos on our journey in the climate and social impact space. Stay tuned for more!
+
+<!-- We also offer 1-on-1 consulting services for people . Please contact:  -->
 
 
 <!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)

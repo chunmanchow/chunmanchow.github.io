@@ -9,70 +9,123 @@ redirect_from:
 
 {% include base_path %}
 
+Chun Man is a PhD chemical/environmental engineer with 6+ years of experience in climate and sustainability, along with training in development ecoomics and business strategy. He was born and raised in Hong Kong.
+
+He is also an Environmentalist \| Art Dabbler \| Traveler & Culture Lover \| Dreamer & Builder of a Sustainable, Equitable World
+
 Education
 ======
-* Ph.D in Chemical Engineering, Massachusetts Institute of Technology, 2022
-* M.A.Sc in Data, Economics, and Development Policy, Massachusetts Institute of Technology, 2022
-* M.S. in Chemical Engineering Practice, Massachusetts Institute of Technology, 2019
+* Ph.D Chemical Engineering, Massachusetts Institute of Technology (MIT), 2022
+* M.A.Sc. Data, Economics, & Development Policy, Massachusetts Institute of Technology, 2022
+* M.S. Chemical Engineering Practice, Massachusetts Institute of Technology, 2019
 * M.Phil. Advanced Chemical Engineering, University of Cambridge, 2017
-* B.S. in Chemical Engineering, University of California - Berkeley, 2016
+* B.S. Chemical Engineering, University of California - Berkeley, 2016
 
 
 Professional experience
 ======
-* 2022 - Present: McKinsey & Company, Management Consultant
-  * Sustainability, social sector
+Business
+------
+* 2022-Present: McKinsey & Company, Management Consultant
+  * Sustainability, social sector, healthcare, digital
 
+* Fall 2021: Anheuser-Busch InBev (São Paulo, BR), Data Scientist  
+  * MIT Sloan Analytics Lab; dynamic freight pricing model
+
+* Fall 2020-Spring 2021: Copia Global (Nairobi, KE), Business Consultant
+  * MIT Sloan Global Entrepreneurship Lab; 10-year strategic growth plan & financial model for digital marketplace serving the bottom of the pyramid
+
+* Fall 2018: Emirates Global Aluminium (EGA), Technical Consultant
+  * Circular economy (waste as raw material for cement), operation improvements
+
+* Fall 2018: Shell Oil Company - New Energies Research & Technology (NERT), Technical Consultant
+  * Technoeconomic analyses of (CO2 + renewable energy)-to-products processes
+
+* 2016-17: OpenDiagnostics (Cambridge Centre for Global Equality), Founding Member
+  * Start-up for open-source, paper-based synthetic biology sensor with partnerships in UK & South Africa
+  * Winner of Cambridge Entrepreneurs Ideas Take Flight Competition
+  * Winer of London Business School HealthTech Challenge
+  * Parmee Prize for Entrepreneurship & Enterprise 
+
+* Summer 2016: Ruhrverband (Essen, DE), Intern
+  * Ruhr Fellowship - awarded to 17 US students
+  * Water management & microplastics in aquatic environments
+
+* Summer 2016: Chevron Phillips Chemical, Intern
+  * SCI (Society of Chemical Industries) Scholar
+  * Environmental, Health, & Safety (EHS)
+
+Multilateral/Non-profit
+------
 * Summer 2022: Abdul Latif Jameel Poverty Action Lab (J-PAL), Climate Specialist
+  * King Climate Action Initiative (K-CAI): Water
 
 * Summer 2021: United Nations Industrial Development Organization (UNIDO), Intern
-  * Montreal Protocol
-
-* Oct-Dec 2018: Emirates Global Aluminium (EGA), Technical Consultant
-  * Circular economy
-
-* Aug-Oct 2018: Shell Oil Company - New Energies Research & Technology (NERT), Technical Consultant
-  * Technoeconomic analyses of (CO2 + Renewable Energy)-to-Products processes
-
-* Sep-Dec 2021: Anheuser-Busch InBev (São Paulo, Brazil; MIT Sloan Analytics Lab), Data Scientist  
-
-* Sep 2020 - Jan 2021 Copia Global (Nairobi, Kenya; MIT Sloan Global Entrepreneurship Lab), Business Consultant
-
-* OpenDiagnostics
-  * Start-up
-
-* Ruhrverband
-
-* Chevron Phillips Chemical
+  * Directorate of Environment & Energy: Montreal Protocol & Kigali Amendment
 
 Research experience
 ======
-* 2019-2022 MIT: Micro & Nanofluidics Research Lab (Karnik, Assoc. Dept. Head) 
+* 2019-22 MIT: Micro & Nanofluidics Research Lab (Karnik, Assoc. Dept. Head) 
   * Nanoporous graphene membrane for health (dialysis), environment (desalination, resource recovery), and industrial (organic separations, nuclear fusion) applications
 
-* 2017-2019 MIT: Hatton Research Group
+* 2017-19 MIT: Hatton Research Group
   * Redox-active polymers for water treatment and carbon capture
 
-* 2016-2017 Cambridge: 
+* 2016-17 Cambridge: Adsorption & Advanced Materials Group (Dr. David Fairen-Jimenez)
   * Metal-organic frameworks - high-throughput molecular simulations & density functional theory to investigate mechanical & chemical stability
 
 * 2015 Argonne National Lab: Energy Systems Division
   * Nanoelectrofuel-based rechargeable flow battery system
 
-* 2013-2016 Berkeley: Gadgil Lab for Energy & Water Research
+* 2013-16 Berkeley: Gadgil Lab for Energy & Water Research
   * Electrochemical arsenic remediation system (ECAR): transport & kinetics, automation, GUI for energy efficiency optimization, field-tests (rural West Bengal, India)
 
 Awards
 ======
+MIT
+------
+* 2017-22: National Science Foundation (NSF) Research Fellowship
+* 2020-22: Croucher Scholarship (Hong Kong award to 15 PhDs)
+* 2022: US Department of Energy American-Made Geothermal Lithium Extraction Prize: Phase 2 Semi-Finalist
+* 2022: MIT J-WAFS Travel Grant: Stockholm World Water Week
+* 2020: MIT J-WAFS Water & Food Systems Fellowship
+* 2020: MIT Policy Hackathon (Env. Justice): Winner
+* 2017-19: Tata Fellowship: Technology or resource-constrained communities
+
+Cambridge
+------
+* 2016-17: Churchill Scholarship (UK-US scholarship awarded to 15)
+
+Berkeley
+------
+* 2016: UCB College Commencement Speaker
+* 2016: UCB University Medal Finalist (top 5 graduates)
+* 2016: American Institute of Chemical Engineers (AIChE), N. Cal Section - College Senior Award
+* 2015: Barry Goldwater Scholarship (Congress award to 260)
+* 2015: Tau Beta Pi Scholarship: National Engineering Honor Society
+* 2012-16: UCB Regents' and Chancellor's Scholar
+
   
-Skills
+Service and leadership
+======
+* 2016-Present: MIT IDEAS Global Challenge, Application Reviewer
+* IUCN (International Union for the Conservation), YouthSpeak Representative for Nature's One Nature, One Future Global Youth Summit
+* 2018-21: MIT Water Club, Co-President
+* 2018: MIT English as Second Language (ESL), Volunteer Tutor
+* 2016-17: USAID (Agency for International Development), Application Evaluator - Securing Water for Food: Grand Challenge for Development
+* 2016: Asian Immigrant Women Advocates, Volunteer
+* 2015-16: Berkeley International Study Program - Cultural Peer Mentor, Co-Director
+* 2013-15: Bay-Area Environmentally Aware Consulting Network (BEACN), Co-President
+* 2014: Ashinaga (Japanese orphan association), Volunteer
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -101,7 +154,6 @@ https://doi.org/10.1063/5.0044041). _J. Chem. Phys._ **154 (18)** (2021).
 
 1. S. Sen, **C.M. Chow**, E. Moazzen, C.U. Segre, E.V. Timofeeva. [Electroactive nanofluids with high solid loading and low viscosity for rechargeable redox flow batteries](https://link.springer.com/article/10.1007/s10800-017-1063-4). _J. Appl. Electrochemistry_ **47**, 593-605 (2017).
 
-
 <!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
@@ -119,10 +171,7 @@ Teaching
   * PhD-level compulsory course covering heat, mass, fluid, and electrochemical transport
 * MITx: [Analysis of Transport Phenomena](https://mitxonline.mit.edu/courses/course-v1:MITxT+10.50.CH01x/) (MOOC)
   * Creator of notes & transcripts creator for Prof. Martin Z. Bazant
-<!--   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+  <!-- <ul>{% for post in site.teaching %} -->
+    <!-- {% include archive-single-cv.html %} -->
+  <!-- {% endfor %}</ul> -->
