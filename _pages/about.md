@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Imagein a world where people across geographies, cultures, and religions come together towards a common cause.
+Imagine a world where people across geographies, cultures, and religions come together towards a common cause.
 
-"" - Quote
+
+Time is pressing. The climate is rising
+
+_“We must use time creatively, in the knowledge that the time is always right to do right.” - Martin Luther King, Jr._
+
+_Life’s most persistent and urgent question is, ‘What are you doing for others?’” - Martin Luther King, Jr._
+
 
 Why now?
 ======
