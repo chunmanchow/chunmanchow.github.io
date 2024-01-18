@@ -24,6 +24,7 @@ Education
 
 Professional experience
 ======
+
 Business
 ------
 * 2022-Present: McKinsey & Company, Management Consultant
@@ -44,21 +45,21 @@ Business
 * 2016-17: OpenDiagnostics (Cambridge Centre for Global Equality), Founding Member
   * Start-up for open-source, paper-based synthetic biology sensor with partnerships in UK & South Africa
   * Winner of Cambridge Entrepreneurs Ideas Take Flight Competition
-  * Winer of London Business School HealthTech Challenge
+  * Winner of London Business School HealthTech Challenge
   * Parmee Prize for Entrepreneurship & Enterprise 
 
 * Summer 2016: Ruhrverband (Essen, DE), Intern
   * Ruhr Fellowship - awarded to 17 US students
   * Water management & microplastics in aquatic environments
 
-* Summer 2016: Chevron Phillips Chemical, Intern
+* Summer 2015: Chevron Phillips Chemical, Intern
   * SCI (Society of Chemical Industries) Scholar
   * Environmental, Health, & Safety (EHS)
 
 Multilateral/Non-profit
 ------
 * Summer 2022: Abdul Latif Jameel Poverty Action Lab (J-PAL), Climate Specialist
-  * King Climate Action Initiative (K-CAI): Water
+  * King Climate Action Initiative: Water
 
 * Summer 2021: United Nations Industrial Development Organization (UNIDO), Intern
   * Directorate of Environment & Energy: Montreal Protocol & Kigali Amendment
@@ -109,7 +110,7 @@ Berkeley
 Service and leadership
 ======
 * 2016-Present: MIT IDEAS Global Challenge, Application Reviewer
-* IUCN (International Union for the Conservation), YouthSpeak Representative for Nature's One Nature, One Future Global Youth Summit
+* 2021: IUCN (International Union for the Conservation), YouthSpeak Representative for Nature's One Nature, One Future Global Youth Summit
 * 2018-21: MIT Water Club, Co-President
 * 2018: MIT English as Second Language (ESL), Volunteer Tutor
 * 2016-17: USAID (Agency for International Development), Application Evaluator - Securing Water for Food: Grand Challenge for Development
@@ -129,9 +130,10 @@ Service and leadership
 
 Publications
 ======
-{if author.googlescholar}
+<!-- {if author.googlescholar}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{endif}
+{endif} -->
+You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=7LmImvsAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
 
 1. **C.M. Chow**, A.H. Persad, R. Karnik. [Effect of Membrane Permeance and System Parameters on the Removal of Protein-Bound Uremic Toxins in Hemodialysis](https://link.springer.com/article/10.1007/s10439-023-03397-6). _Annals of Biomedical Engineering_, 1-16 (2023).
   * 
