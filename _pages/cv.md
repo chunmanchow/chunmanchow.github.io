@@ -11,7 +11,7 @@ redirect_from:
 
 ![Chun Man](/images/profile_circle.png){:height="150px" width="150px"}
 
-Chun Man is a PhD chemical/environmental engineer with 6+ years of experience in climate and sustainability, along with training in development ecocomics and business strategy. He was born and raised in Hong Kong.
+Chun Man is a PhD chemical/environmental engineer with 6+ years of experience in climate and sustainability, along with training in development economics and business strategy. He was born and raised in Hong Kong.
 
 He is also a(n): Environmentalist \| Art Dabbler \| Traveler \| Culture & Food Lover \| Dreamer & Builder of a Sustainable, Equitable World
 
@@ -128,14 +128,11 @@ Service & leadership
 * Bay-Area Environmentally Aware Consulting Network (BEACN), Co-President, 2013-15
 * Ashinaga (Japanese orphan association), Volunteer, 2014
 
-<!-- Skills
+Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* Coding: Python (data analysis + machine learning), R, Matlab, Mathematica, QGIS, Vensim (system dynamics)
+* Software: Aspen, Comsol, Gaussian, Materials Studio, Adobe Illustrator/Photoshop
+* Languages: English (native), Chinese-Mandarin (native), Cantonese (native)
 
 Publications
 ------
