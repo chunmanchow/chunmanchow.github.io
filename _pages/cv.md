@@ -27,55 +27,55 @@ Professional experience
 
 Business:
 ------
-* 2022-Present: McKinsey & Company, Management Consultant
+* 2022-Present: **McKinsey & Company**, Management Consultant
   * Sustainability, social sector, healthcare, digital
 
-* Fall 2021: Anheuser-Busch InBev (São Paulo, BR), Data Scientist  
+* Fall 2021: **Anheuser-Busch InBev** (São Paulo, BR), Data Scientist  
   * MIT Sloan Analytics Lab; dynamic freight pricing model
 
-* Fall 2020-Spring 2021: Copia Global (Nairobi, KE), Business Consultant
+* Fall 2020-Spring 2021: **Copia Global** (Nairobi, KE), Business Consultant
   * MIT Sloan Global Entrepreneurship Lab; 10-year strategic growth plan & financial model for digital marketplace serving the bottom of the pyramid
 
-* Fall 2018: Emirates Global Aluminium (EGA), Technical Consultant
+* Fall 2018: **Emirates Global Aluminium (EGA)**, Technical Consultant
   * Circular economy (waste as raw material for cement), operation improvements
 
-* Fall 2018: Shell Oil Company - New Energies Research & Technology (NERT), Technical Consultant
+* Fall 2018: **Shell Oil Company** - New Energies Research & Technology (NERT), Technical Consultant
   * Technoeconomic analyses of (CO2 + renewable energy)-to-products processes
 
-* 2016-17: OpenDiagnostics (Cambridge Centre for Global Equality), Founding Member
+* 2016-17: **OpenDiagnostics** (Cambridge Centre for Global Equality), Founding Member
   * Start-up for open-source, paper-based synthetic biology sensor with partnerships in UK & South Africa
   * Winner of Cambridge Entrepreneurs Ideas Take Flight Competition, London Business School HealthTech Challenge, Parmee Prize for Entrepreneurship & Enterprise (Pembroke College, Cambridge)
 
-* Summer 2016: Ruhrverband (Essen, DE), Intern - Ruhr Fellow (1 of 17)
+* Summer 2016: **Ruhrverband** (Essen, DE), Intern - Ruhr Fellow (1 of 17)
   * Water management & microplastics in aquatic environments
 
-* Summer 2015: Chevron Phillips Chemical, Intern
+* Summer 2015: **Chevron Phillips Chemical**, Intern
   * SCI (Society of Chemical Industries) Scholar
   * Environmental, Health, & Safety (EHS)
 
 Multilateral/Non-profit:
 ------
-* Summer 2022: Abdul Latif Jameel Poverty Action Lab (J-PAL), Climate Specialist
+* Summer 2022: **Abdul Latif Jameel Poverty Action Lab (J-PAL)**, Climate Specialist
   * King Climate Action Initiative: Water
 
-* Summer 2021: United Nations Industrial Development Organization (UNIDO), Intern
+* Summer 2021: **United Nations Industrial Development Organization (UNIDO)**, Intern
   * Directorate of Environment & Energy: Montreal Protocol & Kigali Amendment
 
 Research experience
 ======
-* 2019-22 MIT: Micro & Nanofluidics Research Lab (Karnik, Assoc. Dept. Head) 
+* 2019-22: MIT - Micro & Nanofluidics Research Lab (Karnik, Assoc. Dept. Head) 
   * Nanoporous graphene membrane for health (dialysis), environment (desalination, resource recovery), and industrial (organic separations, nuclear fusion) applications
 
-* 2017-19 MIT: Hatton Research Group
+* 2017-19: MIT - Hatton Research Group
   * Redox-active polymers for water treatment and carbon capture
 
-* 2016-17 Cambridge: Adsorption & Advanced Materials Group (Dr. David Fairen-Jimenez)
+* 2016-17: Cambridge: Adsorption & Advanced Materials Group (Dr. David Fairen-Jimenez)
   * Metal-organic frameworks - high-throughput molecular simulations & density functional theory to investigate mechanical & chemical stability
 
-* 2015 Argonne National Lab: Energy Systems Division
+* 2015: Argonne National Lab - Energy Systems Division
   * Nanoelectrofuel-based rechargeable flow battery system
 
-* 2013-16 Berkeley: Gadgil Lab for Energy & Water Research
+* 2013-16: Berkeley - Gadgil Lab for Energy & Water Research
   * Electrochemical arsenic remediation system (ECAR): transport & kinetics, automation, GUI for energy efficiency optimization, field-tests (rural West Bengal, India)
 
 Selected awards
@@ -178,7 +178,3 @@ Teaching
   * PhD-level compulsory course covering heat, mass, fluid, and electrochemical transport
 * MITx: [Analysis of Transport Phenomena](https://mitxonline.mit.edu/courses/course-v1:MITxT+10.50.CH01x/) (MOOC)
   * Creator of notes & transcripts creator for Prof. Martin Z. Bazant
-
-  <!-- <ul>{% for post in site.teaching %} -->
-    <!-- {% include archive-single-cv.html %} -->
-  <!-- {% endfor %}</ul> -->
