@@ -180,4 +180,5 @@ Teaching
 
 **Anonymous feedback:**
 > Chun Man was a LIFESAVER. Couldn't have done this without him. He was so helpful in office hours and so friendly and easy to talk to.
+
 > Very responsive, clear demonstration of deep knowledge of the material, always happy to help. Offers clear explnations, overall very good job.
