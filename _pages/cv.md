@@ -119,6 +119,7 @@ Service & leadership
 ------
 * MIT IDEAS Global Challenge, Application Reviewer, 2016-Present
 * IUCN (International Union for Conservation), YouthSpeak Representative for Nature's One Nature, One Future Global Youth Summit, 2021
+* MIT ChemE: Resources for Easing Friction & Stress (REFS), 2018-22
 * MIT Water Club, Co-President, 2018-21
 * MIT English as Second Language (ESL), Volunteer Tutor, 2018
 * USAID (Agency for International Development), Application Evaluator - Securing Water for Food: Grand Challenge for Development, 2016-17
@@ -132,6 +133,11 @@ Skills
 * Coding: Python (data analysis + machine learning), R, Matlab, Mathematica, QGIS, Vensim (system dynamics)
 * Software: Aspen, Comsol, Gaussian, Materials Studio, Adobe Illustrator/Photoshop
 * Languages: English (native), Chinese-Mandarin (native), Cantonese (native)
+
+Patents
+------
+* E.B. Barrett, M.C. Strawser, **C.M. Chow**, K. Ramchander, R. Karnik. [Analyte detection systems and methods of use](https://patents.google.com/patent/WO2023076188A9/). World Patent: WO2023076188A9 (2023).
+* R. Karnik, A. Persad, **C.M. Chow**, C.D. Cheng. [Articles, systems, and methods related to nanoporous membranes](https://patents.google.com/patent/WO2023038997A1/en/1000). World Patent: WO2023038997A1 (2023).
 
 Publications
 ------
