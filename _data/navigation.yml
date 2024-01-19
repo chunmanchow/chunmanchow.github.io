@@ -5,7 +5,7 @@ main:
     url: /cv/
     
   - title: "Thoughts"
-    url: /year-archive/
+    url: /thoughts/
 
   - title: "Travels"
     url: /travels/

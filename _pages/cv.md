@@ -31,7 +31,7 @@ Professional experience
 ------
 **Business:**
 * McKinsey & Company, Management Consultant, 2022-Present
-  * Sustainability, social sector, healthcare, digital
+  * Sustainability, public & social sector, healthcare; strategy, operations, digital
 
 * Anheuser-Busch InBev(São Paulo, BR), Data Scientist, Fall 2021
   * MIT Sloan Analytics Lab; dynamic freight pricing model
@@ -41,20 +41,20 @@ Professional experience
 
 * OpenDiagnostics (Cambridge Centre for Global Equality), Founding Member, 2016-17
   * Start-up for open-source, paper-based synthetic biology sensor with partnerships in UK & South Africa
-  * Winner of Cambridge Entrepreneurs Ideas Take Flight Competition, London Business School HealthTech Challenge, Parmee Prize for Entrepreneurship & Enterprise (Pembroke College, Cambridge)
+  * Winner of Cambridge Entrepreneurs Ideas Take Flight Competition, London Business School HealthTech Challenge, Parmee Prize for Entrepreneurship & Enterprise (Pembroke College)
 
-* Ruhrverband (Essen, DE), Intern - Ruhr Fellow (1 of 17), Summer
+* Ruhrverband (Essen, DE), Intern - Ruhr Fellow (1 of 17), Summer 2016
   * Water management & microplastics in aquatic environments
 
 **Manufacturing/Chemicals:**
 * Emirates Global Aluminium (EGA), Technical Consultant, Fall 2018
-  * Circular economy (waste as raw material for cement), operation improvements
+  * Circular economy (waste as raw material for cement), operations improvements
 
-* Shell Oil Company - New Energies Research & Technology (NERT), Technical Consultant, Fall 2018
-  * Technoeconomic analyses of (CO2 + renewable energy)-to-products processes
+* Shell Oil Company - New Energies Research & Technology, Technical Consultant, Fall 2018
+  * Technoeconomic analyses & process/reactor design for (CO2 + renewable energy)-to-product conversions
 
 * Chevron Phillips Chemical, Intern, Summer 2015
-  * SCI (Society of Chemical Industries) Scholar
+  * SCI (Society of Chem. Industries) Scholar
   * Environmental, Health, & Safety (EHS)
 
 **Multilateral/Non-profit:**
@@ -87,7 +87,7 @@ Selected awards
 * Croucher Scholarship (Hong Kong award to 15 PhDs), 2020-22
 * MIT J-WAFS Water & Food Systems Fellowship, 2020
 * MIT Policy Hackathon (Env. Justice): Winner, 2020
-* Tata Fellowship: Technology or resource-constrained communities, 2017-19
+* Tata Fellowship: Technology for resource-constrained communities, 2017-19
 * Churchill Scholarship (UK-US scholarship awarded to 15), 2016-17
 * UCB College Commencement Speaker, 2016
 * UCB University Medal Finalist (top 5 graduates), 2016
@@ -119,7 +119,7 @@ Berkeley
 Service & leadership
 ------
 * MIT IDEAS Global Challenge, Application Reviewer, 2016-Present
-* IUCN (International Union for the Conservation), YouthSpeak Representative for Nature's One Nature, One Future Global Youth Summit, 2021
+* IUCN (International Union for Conservation), YouthSpeak Representative for Nature's One Nature, One Future Global Youth Summit, 2021
 * MIT Water Club, Co-President, 2018-21
 * MIT English as Second Language (ESL), Volunteer Tutor, 2018
 * USAID (Agency for International Development), Application Evaluator - Securing Water for Food: Grand Challenge for Development, 2016-17

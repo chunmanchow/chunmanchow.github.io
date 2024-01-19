@@ -12,17 +12,17 @@ This website is my playful take on a not-so-playful subject.
 
 Imagine a world where people across geographies, cultures, and religions come together towards a common cause.
 
-_"Life’s most persistent and urgent question is, ‘What are you doing for others?’” - Martin Luther King Jr._
+_"Life’s most persistent and urgent question is, ‘What are you doing **for others**?’” - Martin Luther King Jr._
 
 Why now?
 ======
 Time is pressing. Climate change is happening. Our Earth's temperature is rising. Species are disappearing. We must act before it's too late.
 
-_“We must use time creatively, in the knowledge that the time is always right to do right.” - Martin Luther King Jr._
+_“We must use time creatively, in the knowledge that the **time is always right to do right**.” - Martin Luther King Jr._
 
-<p align="center">
-  ![Climate Bears](/images/env_bears.png){:width="50%"}
-</p>
+<!-- <p align="center"> -->
+![Climate Bears](/images/env_bears.png){:width="50%"}
+<!-- </p> -->
 
 Why this name?
 ======
