@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-![Chun Man](/images/profile_circle.png){:height="50px" width="50px"}
+![Chun Man](/images/profile_circle.png){:height="150px" width="150px"}
+
 Chun Man is a PhD chemical/environmental engineer with 6+ years of experience in climate and sustainability, along with training in development ecoomics and business strategy. He was born and raised in Hong Kong.
 
 He is also a(n): Environmentalist \| Art Dabbler \| Traveler \| Culture & Food Lover \| Dreamer & Builder of a Sustainable, Equitable World
@@ -38,18 +39,19 @@ Professional experience
 * Copia Global (Nairobi, KE), Business Consultant, Fall 2020-Spring 2021
   * MIT Sloan Global Entrepreneurship Lab; 10-year strategic growth plan & financial model for digital marketplace serving the bottom of the pyramid
 
-* Emirates Global Aluminium (EGA), Technical Consultant, Fall 2018
-  * Circular economy (waste as raw material for cement), operation improvements
-
-* Shell Oil Company - New Energies Research & Technology (NERT), Technical Consultant, Fall 2018
-  * Technoeconomic analyses of (CO2 + renewable energy)-to-products processes
-
 * OpenDiagnostics (Cambridge Centre for Global Equality), Founding Member, 2016-17
   * Start-up for open-source, paper-based synthetic biology sensor with partnerships in UK & South Africa
   * Winner of Cambridge Entrepreneurs Ideas Take Flight Competition, London Business School HealthTech Challenge, Parmee Prize for Entrepreneurship & Enterprise (Pembroke College, Cambridge)
 
 * Ruhrverband (Essen, DE), Intern - Ruhr Fellow (1 of 17), Summer
   * Water management & microplastics in aquatic environments
+
+**Manufacturing/Chemicals:**
+* Emirates Global Aluminium (EGA), Technical Consultant, Fall 2018
+  * Circular economy (waste as raw material for cement), operation improvements
+
+* Shell Oil Company - New Energies Research & Technology (NERT), Technical Consultant, Fall 2018
+  * Technoeconomic analyses of (CO2 + renewable energy)-to-products processes
 
 * Chevron Phillips Chemical, Intern, Summer 2015
   * SCI (Society of Chemical Industries) Scholar
