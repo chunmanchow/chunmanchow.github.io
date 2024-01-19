@@ -20,9 +20,9 @@ Time is pressing. Climate change is happening. Our world's temperature is rising
 
 _“We must use time creatively, in the knowledge that the time is always right to do right.” - Martin Luther King Jr._
 
-<p align="center">
-  ![Bears](/images/env_bears.png){: width="50%"}
-</p>
+<!-- <p align="center"> -->
+![Climate Bears](/images/env_bears.png){: width="50%"}
+<!-- </p> -->
 
 Why this name?
 ======
