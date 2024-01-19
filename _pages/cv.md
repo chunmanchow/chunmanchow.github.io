@@ -30,67 +30,67 @@ Professional experience
 
 Business:
 ------
-* 2022-Present: **McKinsey & Company**, Management Consultant
+* McKinsey & Company, Management Consultant, 2022-Present
   * Sustainability, social sector, healthcare, digital
 
-* Fall 2021: **Anheuser-Busch InBev** (São Paulo, BR), Data Scientist  
+* Anheuser-Busch InBev(São Paulo, BR), Data Scientist, Fall 2021
   * MIT Sloan Analytics Lab; dynamic freight pricing model
 
-* Fall 2020-Spring 2021: **Copia Global** (Nairobi, KE), Business Consultant
+* Copia Global (Nairobi, KE), Business Consultant, Fall 2020-Spring 2021
   * MIT Sloan Global Entrepreneurship Lab; 10-year strategic growth plan & financial model for digital marketplace serving the bottom of the pyramid
 
-* Fall 2018: **Emirates Global Aluminium (EGA)**, Technical Consultant
+* Emirates Global Aluminium (EGA), Technical Consultant, Fall 2018
   * Circular economy (waste as raw material for cement), operation improvements
 
-* Fall 2018: **Shell Oil Company** - New Energies Research & Technology (NERT), Technical Consultant
+* Shell Oil Company - New Energies Research & Technology (NERT), Technical Consultant, Fall 2018
   * Technoeconomic analyses of (CO2 + renewable energy)-to-products processes
 
-* 2016-17: **OpenDiagnostics** (Cambridge Centre for Global Equality), Founding Member
+* OpenDiagnostics (Cambridge Centre for Global Equality), Founding Member, 2016-17
   * Start-up for open-source, paper-based synthetic biology sensor with partnerships in UK & South Africa
   * Winner of Cambridge Entrepreneurs Ideas Take Flight Competition, London Business School HealthTech Challenge, Parmee Prize for Entrepreneurship & Enterprise (Pembroke College, Cambridge)
 
-* Summer 2016: **Ruhrverband** (Essen, DE), Intern - Ruhr Fellow (1 of 17)
+* Ruhrverband (Essen, DE), Intern - Ruhr Fellow (1 of 17), Summer
   * Water management & microplastics in aquatic environments
 
-* Summer 2015: **Chevron Phillips Chemical**, Intern
+* Chevron Phillips Chemical, Intern, Summer 2015
   * SCI (Society of Chemical Industries) Scholar
   * Environmental, Health, & Safety (EHS)
 
 Multilateral/Non-profit:
 ------
-* Summer 2022: **Abdul Latif Jameel Poverty Action Lab (J-PAL)**, Climate Specialist
+* Abdul Latif Jameel Poverty Action Lab (J-PAL), Climate Specialist, Summer 2022
   * King Climate Action Initiative: Water
 
-* Summer 2021: **United Nations Industrial Development Organization (UNIDO)**, Intern
+* United Nations Industrial Development Organization (UNIDO), Intern, Summer 2021
   * Directorate of Environment & Energy: Montreal Protocol & Kigali Amendment
 
 Research experience
 ======
-* 2019-22: MIT - Micro & Nanofluidics Research Lab (Karnik, Assoc. Dept. Head) 
+* MIT - Micro & Nanofluidics Research Lab (Karnik, Assoc. Dept. Head), 2019-22
   * Nanoporous graphene membrane for health (dialysis), environment (desalination, resource recovery), and industrial (organic separations, nuclear fusion) applications
 
-* 2017-19: MIT - Hatton Research Group
+* MIT - Hatton Research Group, 2017-19
   * Redox-active polymers for water treatment and carbon capture
 
-* 2016-17: Cambridge: Adsorption & Advanced Materials Group (Dr. David Fairen-Jimenez)
+* Cambridge: Adsorption & Advanced Materials Group (Dr. David Fairen-Jimenez), 2016-17
   * Metal-organic frameworks - high-throughput molecular simulations & density functional theory to investigate mechanical & chemical stability
 
-* 2015: Argonne National Lab - Energy Systems Division
+* Argonne National Lab - Energy Systems Division, 2015
   * Nanoelectrofuel-based rechargeable flow battery system
 
-* 2013-16: Berkeley - Gadgil Lab for Energy & Water Research
+* Berkeley - Gadgil Lab for Energy & Water Research, 2013-16
   * Electrochemical arsenic remediation system (ECAR): transport & kinetics, automation, GUI for energy efficiency optimization, field-tests (rural West Bengal, India)
 
 Selected awards
 ======
-* 2017-22: National Science Foundation (NSF) Research Fellowship
-* 2020-22: Croucher Scholarship (Hong Kong award to 15 PhDs)
-* 2020: MIT J-WAFS Water & Food Systems Fellowship
-* 2020: MIT Policy Hackathon (Env. Justice): Winner
-* 2017-19: Tata Fellowship: Technology or resource-constrained communities
-* 2016-17: Churchill Scholarship (UK-US scholarship awarded to 15)
-* 2016: UCB College Commencement Speaker
-* 2016: UCB University Medal Finalist (top 5 graduates)
+* National Science Foundation (NSF) Research Fellowship, 2017-22
+* Croucher Scholarship (Hong Kong award to 15 PhDs), 2020-22
+* MIT J-WAFS Water & Food Systems Fellowship, 2020
+* MIT Policy Hackathon (Env. Justice): Winner, 2020
+* Tata Fellowship: Technology or resource-constrained communities, 2017-19
+* Churchill Scholarship (UK-US scholarship awarded to 15), 2016-17
+* UCB College Commencement Speaker, 2016
+* UCB University Medal Finalist (top 5 graduates), 2016
 
 <!-- MIT
 ------
@@ -118,15 +118,15 @@ Berkeley
   
 Service & leadership
 ======
-* 2016-Present: MIT IDEAS Global Challenge, Application Reviewer
-* 2021: IUCN (International Union for the Conservation), YouthSpeak Representative for Nature's One Nature, One Future Global Youth Summit
-* 2018-21: MIT Water Club, Co-President
-* 2018: MIT English as Second Language (ESL), Volunteer Tutor
-* 2016-17: USAID (Agency for International Development), Application Evaluator - Securing Water for Food: Grand Challenge for Development
-* 2016: Asian Immigrant Women Advocates, Volunteer
-* 2015-16: Berkeley International Study Program - Cultural Peer Mentor, Co-Director
-* 2013-15: Bay-Area Environmentally Aware Consulting Network (BEACN), Co-President
-* 2014: Ashinaga (Japanese orphan association), Volunteer
+* MIT IDEAS Global Challenge, Application Reviewer, 2016-Present
+* IUCN (International Union for the Conservation), YouthSpeak Representative for Nature's One Nature, One Future Global Youth Summit, 2021
+* MIT Water Club, Co-President, 2018-21
+* MIT English as Second Language (ESL), Volunteer Tutor, 2018
+* USAID (Agency for International Development), Application Evaluator - Securing Water for Food: Grand Challenge for Development, 2016-17
+* Asian Immigrant Women Advocates, Volunteer, 2016
+* Berkeley International Study Program - Cultural Peer Mentor, Co-Director, 2015-16
+* Bay-Area Environmentally Aware Consulting Network (BEACN), Co-President, 2013-15
+* Ashinaga (Japanese orphan association), Volunteer, 2014
 
 <!-- Skills
 ======
