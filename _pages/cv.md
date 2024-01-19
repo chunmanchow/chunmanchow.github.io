@@ -9,15 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+![Chun Man](/images/profile_circle.png)
 Chun Man is a PhD chemical/environmental engineer with 6+ years of experience in climate and sustainability, along with training in development ecoomics and business strategy. He was born and raised in Hong Kong.
 
-He is also a(n): Environmentalist \| Art Dabbler \| Traveler | Culture & Food Lover \| Dreamer & Builder of a Sustainable, Equitable World
+He is also a(n): Environmentalist \| Art Dabbler \| Traveler \| Culture & Food Lover \| Dreamer & Builder of a Sustainable, Equitable World
 
 CV
 ======
 
 Education
-======
+------
 * Ph.D Chemical Engineering, Massachusetts Institute of Technology (MIT), 2022
 * M.A.Sc. Data, Economics, & Development Policy, Massachusetts Institute of Technology, 2022
 * M.S. Chemical Engineering Practice, Massachusetts Institute of Technology, 2019
@@ -26,10 +27,8 @@ Education
 
 
 Professional experience
-======
-
-Business:
 ------
+**Business:**
 * McKinsey & Company, Management Consultant, 2022-Present
   * Sustainability, social sector, healthcare, digital
 
@@ -56,8 +55,7 @@ Business:
   * SCI (Society of Chemical Industries) Scholar
   * Environmental, Health, & Safety (EHS)
 
-Multilateral/Non-profit:
-------
+**Multilateral/Non-profit:**
 * Abdul Latif Jameel Poverty Action Lab (J-PAL), Climate Specialist, Summer 2022
   * King Climate Action Initiative: Water
 
@@ -65,7 +63,7 @@ Multilateral/Non-profit:
   * Directorate of Environment & Energy: Montreal Protocol & Kigali Amendment
 
 Research experience
-======
+------
 * MIT - Micro & Nanofluidics Research Lab (Karnik, Assoc. Dept. Head), 2019-22
   * Nanoporous graphene membrane for health (dialysis), environment (desalination, resource recovery), and industrial (organic separations, nuclear fusion) applications
 
@@ -82,7 +80,7 @@ Research experience
   * Electrochemical arsenic remediation system (ECAR): transport & kinetics, automation, GUI for energy efficiency optimization, field-tests (rural West Bengal, India)
 
 Selected awards
-======
+------
 * National Science Foundation (NSF) Research Fellowship, 2017-22
 * Croucher Scholarship (Hong Kong award to 15 PhDs), 2020-22
 * MIT J-WAFS Water & Food Systems Fellowship, 2020
@@ -117,7 +115,7 @@ Berkeley
 
   
 Service & leadership
-======
+------
 * MIT IDEAS Global Challenge, Application Reviewer, 2016-Present
 * IUCN (International Union for the Conservation), YouthSpeak Representative for Nature's One Nature, One Future Global Youth Summit, 2021
 * MIT Water Club, Co-President, 2018-21
@@ -138,7 +136,7 @@ Service & leadership
 * Skill 3 -->
 
 Publications
-======
+------
 <!-- {if author.googlescholar}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {endif} -->
