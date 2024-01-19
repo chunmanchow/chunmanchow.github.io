@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![Chun Man](/images/profile_circle.png)
+![Chun Man](/images/profile_circle.png){ width=50% }
 Chun Man is a PhD chemical/environmental engineer with 6+ years of experience in climate and sustainability, along with training in development ecoomics and business strategy. He was born and raised in Hong Kong.
 
 He is also a(n): Environmentalist \| Art Dabbler \| Traveler \| Culture & Food Lover \| Dreamer & Builder of a Sustainable, Equitable World
