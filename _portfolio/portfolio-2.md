@@ -1,6 +1,6 @@
 ---
-title: "Serenity"
-excerpt: "1<br/><img src='/images/painting/2022-corgi_starry.jpg'>"
+title: "Nature brings joy"
+excerpt: "Corgi! 1<br/><img src='/images/painting/2021-serenity.png'>"
 collection: portfolio
 ---
 
