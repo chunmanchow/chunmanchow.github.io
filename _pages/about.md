@@ -2,6 +2,7 @@
 permalink: /
 title: "Polar4World is a vision"
 excerpt: "About me"
+youtubeId: UxLvTF_9jv4
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,13 +13,19 @@ This website is my playful take on a not-so-playful subject.
 
 Imagine a world where people across geographies, cultures, and religions come together towards a common cause.
 
-_"Life’s most persistent and urgent question is, ‘What are you doing **for others**?’” - Martin Luther King Jr._
+<!-- We’re a group of believers and actors committed to fight for our environment and create a sustainable and equitable world
+
+Can engender huge steps forward to achieve -->
+
+> Life’s most persistent and urgent question is, ‘What are you doing **for others**?’ - Martin Luther King Jr.
+<!-- _"Life’s most persistent and urgent question is, ‘What are you doing **for others**?’” - Martin Luther King Jr._ -->
 
 Why now?
 ======
 Time is pressing. Climate change is happening. Our Earth's temperature is rising. Species are disappearing. We must act before it's too late.
 
-_“We must use time creatively, in the knowledge that the **time is always right to do right**.” - MLK Jr._
+> We must use time creatively, in the knowledge that the **time is always right to do right**. - MLK Jr.
+<!-- “We must use time creatively, in the knowledge that the **time is always right to do right**.” - MLK Jr. -->
 
 <!-- <p align="center"> -->
 ![Climate Bears](/images/env_bears.png){:width="50%" .center-image}
@@ -33,6 +40,12 @@ That's the beauty of unity. And that's the vision that we, Polar4World, believe 
 What is here?
 ======
 This site contains our thoughts, resources, and learning videos on our journey in the climate and social impact space. Stay tuned for more!
+
+And for some comedic relief, here's a clip from Climate Science Breakthrough to drive home the message about the urgency:
+
+{% include youtubePlayer.html id=page.UxLvTF_9jv4 %}
+
+<!-- https://mikeyjarrell.com/ , Previous Lives: **Scouting**: I'm  -->
 
 <!-- We also offer 1-on-1 consulting services for people . Please contact:  -->
 

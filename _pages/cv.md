@@ -15,7 +15,7 @@ Chun Man is a PhD chemical/environmental engineer with 6+ years of experience in
 
 He is also a(n): Environmentalist \| Art Dabbler \| Traveler \| Culture & Food Lover \| Dreamer & Builder of a Sustainable, Equitable World
 
-CV
+Curriculum Vitae
 ======
 
 Education
@@ -25,7 +25,6 @@ Education
 * M.S. Chemical Engineering Practice, Massachusetts Institute of Technology, 2019
 * M.Phil. Advanced Chemical Engineering, University of Cambridge, 2017
 * B.S. Chemical Engineering, University of California - Berkeley, 2016
-
 
 Professional experience
 ------
@@ -129,7 +128,7 @@ Service & leadership
 * Ashinaga (Japanese orphan association), Volunteer, 2014
 
 Skills
-======
+------
 * Coding: Python (data analysis + machine learning), R, Matlab, Mathematica, QGIS, Vensim (system dynamics)
 * Software: Aspen, Comsol, Gaussian, Materials Studio, Adobe Illustrator/Photoshop
 * Languages: English (native), Chinese-Mandarin (native), Cantonese (native)
@@ -178,3 +177,7 @@ Teaching
   * PhD-level compulsory course covering heat, mass, fluid, and electrochemical transport
 * MITx: [Analysis of Transport Phenomena](https://mitxonline.mit.edu/courses/course-v1:MITxT+10.50.CH01x/) (MOOC)
   * Creator of notes & transcripts creator for Prof. Martin Z. Bazant
+
+**Anonymous feedback:**
+> Chun Man was a LIFESAVER. Couldn't have done this without him. He was so helpful in office hours and so friendly and easy to talk to.
+> Very responsive, clear demonstration of deep knowledge of the material, always happy to help. Offers clear explnations, overall very good job.
