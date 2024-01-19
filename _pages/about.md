@@ -16,7 +16,7 @@ _"Life’s most persistent and urgent question is, ‘What are you doing for oth
 
 Why now?
 ======
-Time is pressing. Climate change is happening. Our world's temperature is rising. 
+Time is pressing. Climate change is happening. Our Earth's temperature is rising. Species are disappearing. We must act before it's too late.
 
 _“We must use time creatively, in the knowledge that the time is always right to do right.” - Martin Luther King Jr._
 
@@ -33,7 +33,7 @@ That's the beauty of unity. And that's the vision that we, Polar4World, believe 
 
 What is here?
 ======
-This site contains blog posts and learning videos on our journey in the climate and social impact space. Stay tuned for more!
+This site contains our thoughts, resources, and learning videos on our journey in the climate and social impact space. Stay tuned for more!
 
 <!-- We also offer 1-on-1 consulting services for people . Please contact:  -->
 
