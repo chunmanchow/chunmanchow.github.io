@@ -18,10 +18,10 @@ Why now?
 ======
 Time is pressing. Climate change is happening. Our Earth's temperature is rising. Species are disappearing. We must act before it's too late.
 
-_“We must use time creatively, in the knowledge that the **time is always right to do right**.” - Martin Luther King Jr._
+_“We must use time creatively, in the knowledge that the **time is always right to do right**.” - MLK Jr._
 
 <!-- <p align="center"> -->
-![Climate Bears](/images/env_bears.png){:width="50%"}
+![Climate Bears](/images/env_bears.png){:width="50%" .center-image}
 <!-- </p> -->
 
 Why this name?
