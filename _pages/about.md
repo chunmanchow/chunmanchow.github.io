@@ -9,23 +9,23 @@ redirect_from:
   - /about.html
 ---
 
-This website is my playful take on a not-so-playful subject.
+This site is my playful take on a not-so-playful subject.
 
-Imagine a world where people across geographies, cultures, and religions come together towards a common cause.
+Imagine a world where people across geographies, cultures, religions, and classes come together for a common cause.
 
 <!-- We’re a group of believers and actors committed to fight for our environment and create a sustainable and equitable world
 
 Can engender huge steps forward to achieve -->
 
-> Life’s most persistent and urgent question is, ‘What are you doing **for others**?’ - Martin Luther King Jr.
+> Life’s most persistent and urgent question is, ‘What are you doing **for others**?’ - MLK Jr.
 <!-- _"Life’s most persistent and urgent question is, ‘What are you doing **for others**?’” - Martin Luther King Jr._ -->
 
 Why now?
 ======
-Time is pressing. Climate change is happening. Our Earth's temperature is rising. Species are disappearing. We must act before it's too late.
+Time is pressing. Climate change is happening. Our Earth's temperature is rising. Species are vanishing. We must act before it's too late.
 
 > We must use time creatively, in the knowledge that the **time is always right to do right**. - MLK Jr.
-<!-- “We must use time creatively, in the knowledge that the **time is always right to do right**.” - MLK Jr. -->
+<!-- so what can we do? => link to thoughts page -->
 
 {:refdef: style="text-align: center;"}
 ![Climate Bears](/images/env_bears.png){:width="50%"}
@@ -45,7 +45,7 @@ What is here?
 ======
 This site contains our thoughts, resources, and learning videos on our journey in the climate and social impact space. Stay tuned for more!
 
-And for some comedic relief, here's a clip from Climate Science Breakthrough to drive home the message about the urgency for climate action:
+And for some comedic relief, here's a clip from Climate Science Breakthrough to drive home the message about the urgency for climate action.
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
