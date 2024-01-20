@@ -27,9 +27,9 @@ Time is pressing. Climate change is happening. Our Earth's temperature is rising
 > We must use time creatively, in the knowledge that the **time is always right to do right**. - MLK Jr.
 <!-- “We must use time creatively, in the knowledge that the **time is always right to do right**.” - MLK Jr. -->
 
-<!-- <p align="center"> -->
-![Climate Bears](/images/env_bears.png){:width="50%" .center-image}
-<!-- </p> -->
+{:refdef: style="text-align: center;"}
+![Climate Bears](/images/env_bears.png){:width="50%"}
+{: refdef}
 
 Why this name?
 ======
@@ -41,9 +41,9 @@ What is here?
 ======
 This site contains our thoughts, resources, and learning videos on our journey in the climate and social impact space. Stay tuned for more!
 
-And for some comedic relief, here's a clip from Climate Science Breakthrough to drive home the message about the urgency:
+And for some comedic relief, here's a clip from Climate Science Breakthrough to drive home the message about the urgency for climate action:
 
-{% include youtubePlayer.html id=page.UxLvTF_9jv4 %}
+<!-- {% include youtubePlayer.html id=page.UxLvTF_9jv4 %} -->
 
 <!-- https://mikeyjarrell.com/ , Previous Lives: **Scouting**: I'm  -->
 
