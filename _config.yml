@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Polar4World" #"Chun Man Chow / Polar4K"
 title_separator          : "-"
-name                     : &name "Chun Man Chow"
+name                     : &name "Polar4World by Chun Man Chow"
 description              : &description "MIT PhD Engineer | Environmentalist | Art Dabbler | Traveler & Culture Lover | Dreamer & Builder of a Sustainable, Equitable World"
 url                      : https://chunmanchow.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chun Man Chow"
+  name             : "Polar4World by Chun Man Chow"
   avatar           : "profile.png"
   bio              : "United to create a sustainable & equitable world where everyone can thrive"
   location         : "Seattle | Hong Kong"
