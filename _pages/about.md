@@ -37,6 +37,10 @@ The penguin and the polar bear may come from opposite ends of the world, but wit
 
 That's the beauty of unity. And that's the vision that we, Polar4World, believe in. 
 
+{:refdef: style="text-align: center;"}
+![Polar Bear & Penguin](/images/profile.png){:width="50%"}
+{: refdef}
+
 What is here?
 ======
 This site contains our thoughts, resources, and learning videos on our journey in the climate and social impact space. Stay tuned for more!

@@ -180,9 +180,9 @@ Teaching
 ======
 * MIT 10.50: Analysis of Transport Phenomena (Fall 2022)
   * TA for Prof. Martin Z. Bazant
-  * PhD-level compulsory course covering heat, mass, fluid, and electrochemical transport
+  * PhD-level compulsory course covering fluid mechanics and heat, mass, electrochemical transport 
 * MITx: [Analysis of Transport Phenomena](https://mitxonline.mit.edu/courses/course-v1:MITxT+10.50.CH01x/) (MOOC)
-  * Creator of notes & transcripts creator for Prof. Martin Z. Bazant
+  * Lecture note & transcript creator for Prof. Martin Z. Bazant
 
 **Anonymous feedback:**
 > Chun Man was a LIFESAVER. Couldn't have done this without him. He was so helpful in office hours and so friendly and easy to talk to.
