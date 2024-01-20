@@ -47,7 +47,7 @@ This site contains our thoughts, resources, and learning videos on our journey i
 
 And for some comedic relief, here's a clip from Climate Science Breakthrough to drive home the message about the urgency for climate action:
 
-<!-- {% include youtubePlayer.html id=page.UxLvTF_9jv4 %} -->
+{% include youtubePlayer.html id=page.youtubeId %}
 
 <!-- https://mikeyjarrell.com/ , Previous Lives: **Scouting**: I'm  -->
 
