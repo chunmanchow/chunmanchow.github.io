@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Polar4World is a vision"
+title: "Polar4Earth is a vision"
 excerpt: "About me"
 youtubeId: UxLvTF_9jv4
 author_profile: true
@@ -35,7 +35,7 @@ Why this name?
 ======
 The penguin and the polar bear may come from opposite ends of the world, but with the a same vision and goal to save their home and a common value of improving well-being of all, they come together to work on one of the most pressing challenge we face.
 
-That's the beauty of unity. And that's the vision that we, Polar4World, believe in. 
+That's the beauty of unity. And that's the vision that we, Polar4Earth, believe in. 
 
 {:refdef: style="text-align: center;"}
 ![Polar Bear & Penguin](/images/profile.png){:width="50%"}
